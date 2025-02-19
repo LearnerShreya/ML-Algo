@@ -18,7 +18,6 @@ This repository provides a categorized list of **Machine Learning (ML) algorithm
 - [Time Series Analysis](#time-series-analysis)
 - [Graph-Based Learning](#graph-based-learning)
 - [Contributing](#contributing)
-- [License](#license)
 
 ---
 
